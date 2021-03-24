@@ -1,1 +1,2 @@
-print('Hello Qobiljon')
+
+print('Qobiljonga salom')
